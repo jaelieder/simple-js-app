@@ -1,21 +1,21 @@
 //pokemon array
 let pokemonList=[
   {
-  name: ‘Squirtle’,
+  name: 'Squirtle',
   id: 7,
   height: 0.5,
-  type: [‘water’]
+  type: ['water']
   },
   {
-  name: ‘Spearow’,
+  name: 'Spearow',
   id: 21,
   height: 0.3,
-  type: [‘flying’,‘normal’]
+  type: ['flying','normal']
   },
   {
-  name: ‘Jigglypuff’,
+  name: 'Jigglypuff',
   id: 39,
   height: 0.5,
-  type: [‘fairy’,‘normal’]
+  type: ['fairy','normal']
   }
 ]
