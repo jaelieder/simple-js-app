@@ -18,4 +18,12 @@ let pokemonList=[
   height: 0.5,
   type: ['fairy','normal']
   }
-]
+];
+
+for (let i = 0; i < pokemonList.length; i++) {
+    let pokemon = pokemonList[i];
+    let name = pokemon.name;
+    let height = pokemon.height;
+  
+    document.write(name + " (height: " + height + ")<br>");
+  }  
