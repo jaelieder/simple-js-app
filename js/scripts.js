@@ -17,6 +17,18 @@ let pokemonList=[
   id: 39,
   height: 5,
   type: ['fairy','normal']
+  },
+  {
+  name: 'Psyduck',
+  id: 54,  
+  height: 8,
+  type: ["water"]
+  },
+  {
+  name: 'Pikachu',
+  id: 25,
+  height: 4,
+  type: ['electric']
   }
 ];
 
